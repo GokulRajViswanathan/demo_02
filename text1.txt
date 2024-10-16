@@ -1,1 +1,2 @@
-hi this is text1.txt says hello from this github
+hi this is text1.txt says hello from this github and good bye
+
